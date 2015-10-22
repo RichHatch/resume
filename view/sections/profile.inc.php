@@ -11,7 +11,7 @@
 		</p>
 	</div>
 	<div class="col-md-4 text-center">
-		<img src="<?= VIEW_PATH; ?>images/pascal_van_gemert.png" alt="Pascal van Gemert" width="246" height="246" />
+		<img src="<?= VIEW_PATH; ?>images/dickhatch.jpg" alt="Pascal van Gemert" width="246" height="246" />
 	</div>
 	<div class="col-md-4">
 		<h3>Details</h3>
