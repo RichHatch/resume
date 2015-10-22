@@ -43,7 +43,7 @@
             "specification": "Sr. Software Developer",
             "location": "Austin, Texas",
             "level": "Fulltime",
-            "description": "Worked on a handful of projects ranging from a college football recruiting app, and a handful of ",
+            "description": "Worked on several projects ranging from a college football recruiting app, and a handful of interactive social metric driven dashboards, to my current role as maintainer of all things backend",
             "start_date": "2013-08-01",
             "end_date": null
         },
@@ -52,7 +52,7 @@
             "specification": "Web Developer",
             "location": "Austin, Texas",
             "level": "Fulltime",
-            "description": "MyEdu was a platform designed to help college choose college courses based on professor reviews and grade distributions, eventually building them an online performance resume with skills. The site also has an employer login and a tool to match candidates for particular job based on skills, degrees, and schools of choice.",
+            "description": "MyEdu is a platform designed to help college students choose college courses based on professor reviews and grade distributions, eventually building them an online performance resume with skills, degree information, and proficiencies. The site also has an employer login and a tool to match candidates for particular job based on skills, degrees, and schools of choice.",
             "start_date": "2009-07-06",
             "end_date": "2013-07-01",
 			"link": "http://www.myedu.com/"

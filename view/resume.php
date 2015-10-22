@@ -9,13 +9,13 @@
 		
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		
-		<meta name="author" content="Pascal van Gemert" />	
-		<meta name="description" content="I'm Pascal van Gemert, a ninja webdeveloper / creative programmer with good knowledge of front-end technics." />
-		<meta name="keywords" content="Pascal van Gemert, Interactive Resume, PHP programmer, Web developer, Startup, Interactive CV, Resume, CV, Whoopaa, HRMatches, Sanitairwinkel, Algorithms, PHP, MySQL, OOP" />
+		<meta name="author" content="Rich Hatch" />
+		<meta name="description" content="I'm Rich Hatch, a Software Developer." />
+		<meta name="keywords" content="Rich Hatch, Dick Hatch, dickhatch, Interactive Resume, PHP programmer, Web developer, Interactive CV, Resume, CV, Algorithms, PHP, MySQL, OOP" />
 		<meta name="robots" content="index, follow" />
 		<meta name="revisit-after" content="14 days" />
 			
-		<title>Pascal van Gemert - Web Developer - Interactive Resume</title>
+		<title>Rich Hatch - Web Developer - Interactive Resume</title>
 		
 		<!-- Bootstrap core CSS -->
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" type="text/css" />
@@ -46,9 +46,9 @@
 		<!-- End Inspectlet Embed Code -->
 	</head>
 	<body data-spy="scroll" data-target="#navbar-example">	 
-		
+
 		<div class="opl"><a href="http://onepagelove.com/pascal-van-gemert" target="_blank">pascalvangemert.nl featured on One Page Love</a></div>
-		
+
 		<?php 
 			
 			// show an different picture per day, loop through array

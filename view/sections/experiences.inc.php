@@ -24,7 +24,7 @@
 		</div>
 		<div class="col-md-8">
 			<p>
-				<strong><?= $education->level; ?> - <?= $education->specification; ?></strong>
+				<strong><?= $education->level; ?> - <?= $education->major; ?>, (Minor: <?= $education->minor; ?>)</strong>
 				<span class="hidden-phone">
 					<?= $education->description; ?>
 				</span>
