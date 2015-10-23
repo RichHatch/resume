@@ -162,12 +162,6 @@
             "endorsement": ""
         },
         {
-            "title": "Vagrant",
-            "level": 3,
-            "level_detailed": 5,
-            "endorsement": ""
-        },
-        {
             "title": "AngularJS",
 			"level": 3,
             "level_detailed": 4,
@@ -212,6 +206,12 @@
             "endorsement": ""
         },
         {
+            "title": "Vagrant",
+            "level": 3,
+            "level_detailed": 5,
+            "endorsement": ""
+        },
+        {
             "title": "PHPStorm",
 			"level": 3,
             "level_detailed": 5,
@@ -224,9 +224,15 @@
             "endorsement": ""
         },
         {
-            "title": "Mac",
+            "title": "OSX",
 			"level": 5,
             "level_detailed": 10,
+            "endorsement": ""
+        },
+        {
+            "title": "Linux",
+            "level": 3,
+            "level_detailed": 5,
             "endorsement": ""
         },
         {
