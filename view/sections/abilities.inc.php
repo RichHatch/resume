@@ -53,11 +53,6 @@
 	
 </div>
 
-<div class="text-center project-referal">
-	<p>This project is built on a custom made PHP framework.</p>
-	<a href="https://github.com/richhatch/resume" class="btn btn-primary" target="_blank">See project on Github</a>
-</div>
-
 <hr />
 
 <h3>Tools</h3>
@@ -104,4 +99,9 @@
 	</div>
 	
 	<?php } ?>
+</div>
+
+<div class="text-center project-referal">
+	<p>This project is built on a custom made PHP framework.</p>
+	<a href="https://github.com/richhatch/resume" class="btn btn-primary" target="_blank">See project on Github</a>
 </div>
