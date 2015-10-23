@@ -1,5 +1,5 @@
 <h2>Profile</h2>
-<p class="lead">I&#039;m a creative PHP webdeveloper</p>
+<p class="lead">I&#039;m a software developer</p>
 
 <hr />
 
