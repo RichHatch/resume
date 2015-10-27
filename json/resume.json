@@ -245,7 +245,7 @@
     "projects": [
     	{
 	    	"title": "MyEdu",
-	    	"description": "Mals, a creative agency located in Rotterdam.",
+	    	"description": "A tool dedicated to helping college students finish college in four years and get a job in their field.",
 	    	"tags": "Zend Framework, proprietary RESTful backend, MySQL, PHP",
 	    	"image": "myedu.png",
 	    	"link": "http://www.myedu.com"
