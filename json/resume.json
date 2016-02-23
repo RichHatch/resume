@@ -5,11 +5,11 @@
         "last_name": "Hatch",
         "date_of_birth": "1986-10-27",
         "place_of_birth": "'Princeton, NJ",
-        "biography": "I'm a full stack software developer. I've worked on everything ranging from building RESTful APIs, to backend ingestion services, to even a bit of front end javascript",
+        "biography": "I'm a full stack software developer. I've worked on everything ranging from building RESTful APIs, to backend ingestion services, to even a bit of front end javascript. In 2006, I was awarded TIME Magazine's Person of the Year.",
         "current_location": {
-            "street": "********",
-            "housenumber": 0,
-            "zipcode": "78741",
+            "street": "Rowlands Sayle.",
+            "housenumber": 9209,
+            "zipcode": "78744",
             "city": "Austin",
             "state": "Texas",
             "country": "United States of America",
@@ -22,7 +22,9 @@
         "skype": "richhatch",
         "website": "dickhatch.pizza",
         "twitter": "http://twitter.com/THEdickhatch",
-        "linkedin": "http://linkedin.com/in/richhatch/"
+        "linkedin": "http://linkedin.com/in/richhatch/",
+        "facebook": "http://fb.me/THEdickhatch",
+        "strava": "https://www.strava.com/athletes/3507530"
     },
     "educations": [
         {
